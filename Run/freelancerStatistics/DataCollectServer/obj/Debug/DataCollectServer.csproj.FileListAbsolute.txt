@@ -1,0 +1,9 @@
+E:\1_Dev_Work\14_Freelancer\DataCollectServer\DataCollectServer\bin\Debug\DataCollectServer.exe.config
+E:\1_Dev_Work\14_Freelancer\DataCollectServer\DataCollectServer\bin\Debug\DataCollectServer.exe
+E:\1_Dev_Work\14_Freelancer\DataCollectServer\DataCollectServer\bin\Debug\DataCollectServer.pdb
+E:\1_Dev_Work\14_Freelancer\DataCollectServer\DataCollectServer\bin\Debug\MySql.Data.DLL
+E:\1_Dev_Work\14_Freelancer\DataCollectServer\DataCollectServer\obj\Debug\DataCollectServer.Form1.resources
+E:\1_Dev_Work\14_Freelancer\DataCollectServer\DataCollectServer\obj\Debug\DataCollectServer.Properties.Resources.resources
+E:\1_Dev_Work\14_Freelancer\DataCollectServer\DataCollectServer\obj\Debug\DataCollectServer.csproj.GenerateResource.Cache
+E:\1_Dev_Work\14_Freelancer\DataCollectServer\DataCollectServer\obj\Debug\DataCollectServer.exe
+E:\1_Dev_Work\14_Freelancer\DataCollectServer\DataCollectServer\obj\Debug\DataCollectServer.pdb

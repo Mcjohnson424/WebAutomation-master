@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "name": "Freelancer New Job Extension",
+  "description" : "Freelancer site auto click new jobs and auto bid extension.",
+  "version": "1.0",
+  "content_scripts": [
+  {
+    "matches": [
+      "https://www.freelancer.com/search/projects/"
+    ],
+    "js": ["jquery-2.1.4.min.js","content.js"],
+	"run_at": "document_end"
+  }
+ ],
+ "browser_action": {
+  "default_icon": "icon1.png"
+ },
+ "icons": { 
+          "16": "icon1.png",
+          "48": "icon1.png",
+          "128": "icon1.png" },
+ "permissions": 
+ [
+   "activeTab",
+   "tabs"
+  ]
+}
